@@ -3,7 +3,7 @@ import UIKit
 import XCTest
 
 
-@testable import mbrush_printer_plugin
+@testable import mbrush_flutter_sdk
 
 // This demonstrates a simple unit test of the Swift portion of this plugin's implementation.
 //
@@ -12,7 +12,7 @@ import XCTest
 class RunnerTests: XCTestCase {
 
   func testGetPlatformVersion() {
-    let plugin = MbrushPrinterPlugin()
+    let plugin = MbrushFlutterSdkPlugin()
 
     let call = FlutterMethodCall(methodName: "getPlatformVersion", arguments: [])
 

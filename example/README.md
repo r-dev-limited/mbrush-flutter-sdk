@@ -1,6 +1,6 @@
-# mbrush_printer_plugin_example
+# mbrush_flutter_sdk_example
 
-Demonstrates how to use the mbrush_printer_plugin plugin.
+Demonstrates how to use the mbrush_flutter_sdk plugin.
 
 ## Getting Started
 

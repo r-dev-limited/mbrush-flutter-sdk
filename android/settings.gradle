@@ -1,1 +1,1 @@
-rootProject.name = 'mbrush_printer_plugin'
+rootProject.name = 'mbrush_flutter_sdk'

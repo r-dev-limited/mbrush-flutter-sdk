@@ -1,4 +1,4 @@
-name: mbrush_printer_plugin
+name: mbrush_flutter_sdk
 description: "mbrush printer plugin for text chunking, .mbd conversion, and local HTTP upload."
 version: 0.0.1
 homepage: https://tomas.radvansky.org
@@ -36,10 +36,10 @@ flutter:
   plugin:
     platforms:
       android:
-        package: nz.co.rdev.mbrush_printer_plugin
-        pluginClass: MbrushPrinterPlugin
+        package: nz.co.rdev.mbrush_flutter_sdk
+        pluginClass: MbrushFlutterSdkPlugin
       ios:
-        pluginClass: MbrushPrinterPlugin
+        pluginClass: MbrushFlutterSdkPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:

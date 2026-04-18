@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:mbrush_printer_plugin/mbrush_printer_plugin.dart';
+import 'package:mbrush_flutter_sdk/mbrush_flutter_sdk.dart';
 
 void main() {
   test('estimate splits long text into strips', () {

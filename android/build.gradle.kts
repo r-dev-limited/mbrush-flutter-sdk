@@ -1,4 +1,4 @@
-group = "nz.co.rdev.mbrush_printer_plugin"
+group = "nz.co.rdev.mbrush_flutter_sdk"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -27,7 +27,7 @@ plugins {
 }
 
 android {
-    namespace = "nz.co.rdev.mbrush_printer_plugin"
+    namespace = "nz.co.rdev.mbrush_flutter_sdk"
 
     compileSdk = 36
 

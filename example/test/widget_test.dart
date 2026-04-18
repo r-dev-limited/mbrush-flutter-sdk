@@ -7,7 +7,7 @@
 
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:mbrush_printer_plugin_example/main.dart';
+import 'package:mbrush_flutter_sdk_example/main.dart';
 
 void main() {
   testWidgets('plugin example smoke test', (WidgetTester tester) async {

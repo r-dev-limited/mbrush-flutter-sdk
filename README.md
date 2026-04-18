@@ -1,4 +1,4 @@
-# mbrush_printer_plugin
+# mbrush_flutter_sdk
 
 Flutter plugin for text chunking, rendering, conversion to `.mbd`, and upload to mbrush-compatible printers over local HTTP (`192.168.88.1` by default over USB Ethernet).
 
@@ -20,7 +20,7 @@ Developed by `tomas.radvansky.org` at `rdev.co.nz`.
 ## Basic usage
 
 ```dart
-import 'package:mbrush_printer_plugin/mbrush_printer_plugin.dart';
+import 'package:mbrush_flutter_sdk/mbrush_flutter_sdk.dart';
 
 const MidwifePrinter printer = MidwifePrinter();
 
